@@ -1,0 +1,9 @@
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\bin\Debug\KRONOS_DP_IT1.exe
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\bin\Debug\KRONOS_DP_IT1.pdb
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.frm_BackPlate.resources
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.Properties.Resources.resources
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.csproj.GenerateResource.Cache
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.exe
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.pdb
+c:\users\skinny_pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.frm_EmpProfile.resources
+C:\Users\skinny_Pete\documents\visual studio 2010\Projects\KRONOS_DP_IT1\KRONOS_DP_IT1\obj\x86\Debug\KRONOS_DP_IT1.csprojResolveAssemblyReference.cache
